@@ -1,0 +1,16 @@
+{
+    "Elemental HERO Stratos":
+    {
+        "type": "monster",
+        "level": 4,
+        "attribute": "wind",
+        "monster type": "warrior",
+        "atk": 1800,
+        "def": 300,
+        "text": "When this card is Normal or Special Summoned: You can activate 1 of these effects.\n● You can destroy Spell/Trap Cards on the field, up to the number of other \"HERO\" monsters you control, except this card.\n● Add a \"HERO\" monster from your Deck to your hand.",
+        "effects": {
+            "summon": "stratos_summon"
+        },
+        "tags": ["hero", "elemental hero"]
+    }
+}
